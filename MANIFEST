@@ -1,0 +1,6 @@
+MANIFEST
+README
+Makefile.PL
+Qotd.pm
+t/1.t
+examples/simple-qotd-server.pl
