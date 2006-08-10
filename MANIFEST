@@ -4,3 +4,4 @@ Makefile.PL
 Qotd.pm
 t/1.t
 examples/simple-qotd-server.pl
+META.yml                                 Module meta-data (added by MakeMaker)
