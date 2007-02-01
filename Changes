@@ -1,6 +1,9 @@
 POE::Component::Server::Qotd
 ============================
 
+1.04	Thu Feb 01 14:50:54 GMT 2007
+	- Makefile.PL fully Module::Install-ified.
+
 1.03	Tue Sep 26 13:38:47 BST 2006
 	- Switched to Module::Install
 
