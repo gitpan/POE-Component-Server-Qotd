@@ -19,7 +19,7 @@ use vars qw($VERSION);
 use constant DATAGRAM_MAXLEN => 1024;
 use constant DEFAULT_PORT => 17;
 
-$VERSION = '1.05';
+$VERSION = '1.06';
 
 sub spawn {
   my $package = shift;
@@ -94,7 +94,7 @@ __END__
 
 =head1 NAME
 
-POE::Component::Server::Qotd - a POE component implementing a RFC 865 QotD server.
+POE::Component::Server::Qotd - A POE component that implements an RFC 865 QotD server.
 
 =head1 SYNOPSIS
 
