@@ -1,6 +1,9 @@
 POE::Component::Server::Qotd
 ============================
 
+1.12	Tue Jul  1 09:54:45 BST 2008
+	- Added LICENSE information.
+
 1.10	Thu Apr  3 12:46:42 BST 2008
 	- Kwalitee fixes.
 
